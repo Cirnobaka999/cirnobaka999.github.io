@@ -1,8 +1,8 @@
 ---
 home: true
 navbar: true
-heroImage: /images/logo.webp
-heroImageDark: /images/logo.webp
+heroImage: /img/logo.png
+heroImageDark: /img/logo.png
 actions:
   - text: 介绍
     link: /intro/
